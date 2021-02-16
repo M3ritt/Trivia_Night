@@ -16,3 +16,10 @@ More specifics of the game include:
 - Each Player has a set amount of time to answer a question, if they take too long then 
  the answer is considered incorrect and cannot get that question again. 
  
+<h2> Installation: </h2>
+<ol>
+ <li> Download/clone the repository </li>
+ <li> cd ./Trivia_Night-main/Trivia_Night-main/Trivia_night/src/main/java </li>
+ <li> javac Trivia/Runner.java </li>
+ <li> java Trivia/Runner </li>
+</ol>
